@@ -205,7 +205,7 @@ export const Footer = () => {
 
         {/* Bottom Bar (Image 1 Style) */}
         <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between text-xs text-[#E8D8C3]/60 font-sans gap-4">
-          <p>© {new Date().getFullYear()} Wild Light Photography. All Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} Rohit Photography. All Rights Reserved.</p>
           <div className="flex items-center space-x-1">
             <span>Designed with</span>
             <Heart className="w-3.5 h-3.5 text-[#C5A880] fill-current mx-0.5" />
