@@ -77,7 +77,7 @@ export const ContactSection = ({ initialService = '' }) => {
               <div className="flex items-center space-x-2 mb-2">
                 <span className="h-[1px] w-6 bg-[#C5A880]" />
                 <span className="text-xs uppercase font-sans tracking-[0.25em] text-[#A67C52] font-semibold">
-                  LET'S CONNECT
+                  LET'S CONNECTc
                 </span>
               </div>
               
